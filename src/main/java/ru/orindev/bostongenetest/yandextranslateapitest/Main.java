@@ -22,10 +22,10 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Ready to translate. Plaese, enter your phrase");
+        System.out.println("Ready to translate. Plaese, enter your phrase.");
         while (true) {
             String phrase = scanner.nextLine();
-            if (phrase.equals("exit")) break;
+            if (phrase.equals("exit!")) break;
             String result = translateToRussian(phrase);
             System.out.println(result);
         }
