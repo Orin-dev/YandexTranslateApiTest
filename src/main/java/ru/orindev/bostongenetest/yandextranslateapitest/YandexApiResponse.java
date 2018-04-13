@@ -1,3 +1,5 @@
+package ru.orindev.bostongenetest.yandextranslateapitest;
+
 import java.util.List;
 
 /**
