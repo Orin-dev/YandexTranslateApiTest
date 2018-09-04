@@ -2,9 +2,6 @@ package ru.orindev.bostongenetest.yandextranslateapitest;
 
 import java.util.List;
 
-/**
- * Created by Orin on 13.04.2018.
- */
 public class YandexApiResponse {
     private String code;
     private String lang;
